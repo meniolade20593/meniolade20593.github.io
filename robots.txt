@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://meniolade20593.github.io/sitemap.xml
